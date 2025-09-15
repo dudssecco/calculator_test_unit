@@ -1,4 +1,4 @@
-# 🧮 Calculadora em Java (Maven)
+# Calculadora Teste Unitário em Java (Maven)
 
 Projeto simples em **Java** utilizando **Maven** no **IntelliJ IDEA**, com uma classe `Calculadora` que implementa as operações básicas:
 
