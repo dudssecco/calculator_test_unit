@@ -13,19 +13,7 @@ A simple Java project using Maven to implement a `Calculator` class, with unit t
 
 ---
 
-## 🏗️ Project Structure
-
-calculator_test_unit/
-├── src/
-│   ├── main/java/     → Calculator implementation
-│   └── test/java/     → Unit tests for Calculator
-├── pom.xml            → Maven build configuration
-├── LICENSE            → MIT License
-└── README.md          → This file
-
----
-
-## 🔧 Prerequisites
+## Prerequisites
 
 - Java JDK 17 or newer  
 - Maven  
@@ -33,9 +21,10 @@ calculator_test_unit/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
-1. Clone the repo:  
+1. Clone the repo:
+   
    ```bash
    git clone https://github.com/dudssecco/calculator_test_unit.git
    cd calculator_test_unit
