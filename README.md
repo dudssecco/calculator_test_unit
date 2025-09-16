@@ -1,25 +1,41 @@
-# Calculadora Teste Unitário em Java (Maven)
+# Calculator Unit Tests (Java + Maven)
 
-Projeto simples em **Java** utilizando **Maven** no **IntelliJ IDEA**, com uma classe `Calculadora` que implementa as operações básicas:
+A simple Java project using Maven to implement a `Calculator` class, with unit tests around basic operations.  
 
-- Soma ➕
-- Subtração ➖
-- Multiplicação ✖️
-- Divisão ➗
+---
 
-## 🚀 Estrutura do Projeto
+## 🚀 Features
 
+- Addition ➕  
+- Subtraction ➖  
+- Multiplication ✖️  
+- Division ➗ (handles division by zero appropriately)  
 
-## 📦 Pré-requisitos
+---
 
-- [Java JDK 17+](https://www.oracle.com/java/technologies/downloads/)  
-- [Maven](https://maven.apache.org/)  
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) (opcional, mas recomendado)
+## 🏗️ Project Structure
 
-## ⚙️ Como executar
+calculator_test_unit/
+├── src/
+│   ├── main/java/     → Calculator implementation
+│   └── test/java/     → Unit tests for Calculator
+├── pom.xml            → Maven build configuration
+├── LICENSE            → MIT License
+└── README.md          → This file
 
-1. Clone o repositório:
+---
 
-```bash
-git clone https://github.com/seuusuario/meu-projeto.git
-cd meu-projeto
+## 🔧 Prerequisites
+
+- Java JDK 17 or newer  
+- Maven  
+- (Optional) IntelliJ IDEA or any other Java IDE  
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/dudssecco/calculator_test_unit.git
+   cd calculator_test_unit
