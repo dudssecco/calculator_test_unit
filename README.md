@@ -2,24 +2,18 @@
 
 A simple Java project using Maven to implement a `Calculator` class, with unit tests around basic operations.  
 
----
-
-## 🚀 Features
+##  Features
 
 - Addition ➕  
 - Subtraction ➖  
 - Multiplication ✖️  
 - Division ➗ (handles division by zero appropriately)  
 
----
-
 ## Prerequisites
 
 - Java JDK 17 or newer  
 - Maven  
 - (Optional) IntelliJ IDEA or any other Java IDE  
-
----
 
 ## How to Run
 
